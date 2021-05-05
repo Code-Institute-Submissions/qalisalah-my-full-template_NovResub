@@ -1,0 +1,14 @@
+.blue_background {
+
+    background-color: rgba(0, 0, 255, 0.75) !important;
+}
+
+.vertical_margin {
+    margin-top: 100px !important;
+
+}
+
+.xs-about-us h3 {
+    margin: 25px 0 15px;
+    font-size: 1.25rem;
+}
