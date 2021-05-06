@@ -20,10 +20,9 @@ body {
 }
 
 .header {
-    font-size: xx-large !important; 
     font-weight: 400 !important;
+    font-size: 40px !important;
 }
-
 /* home image */
   
 img {
@@ -67,3 +66,14 @@ footer {
     font-size: large;
     color: blanchedalmond;
 }
+
+/* classes */
+
+#gym-classes {
+    margin-top: 150px;
+    padding: 40px;
+}
+ .space {
+    margin-bottom: 50px;
+    margin-top: 50px;
+ }
