@@ -40,7 +40,45 @@
           <h1>Contact Us!</h1>
           <p>Below enter your information with any enquires you may have. You'll hear from us shortly.</p>
       </section>
+     
+      <section>
+         <form>
+             <div class="dropdown">
+                 <label for="title">Title:</label>
+                 <button class="btn btn-secondary dropdown-toggle title" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false"required>
+                     Title
+                    </button>
+                  <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
+                     <li><a class="dropdown-item" href="#">Mr</a></li>
+                     <li><a class="dropdown-item" href="#">Mrs</a></li>
+                     <li><a class="dropdown-item" href="#">Miss</a></li>
+                     <li><a class="dropdown-item" href="#">Ms</a></li>
+                    </ul>
+             </div>
+             <div class="mb-3 name">
+                  <label for="exampleFormControlInput1" class="form-label">Name:</label>
+                  <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="First and Last Name" required>
+              </div>
+              <div class="mb-3 number">
+                  <label for="exampleFormControlInput1" class="form-label">Phone Number:</label>
+                  <input type="email" class="form-control" id="exampleFormControlInput1" placeholder=" 555 - 555 - 5555" required>
+              </div>
+             <div class="mb-3 email">
+                  <label for="exampleFormControlInput1" class="form-label">Email address:</label>
+                  <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com" required>
+              </div>
+              <div class="mb-3 questions">
+                  <label for="exampleFormControlTextarea1" class="form-label">Questions</label>
+                  <textarea class="form-control" id="exampleFormControlTextarea1" rows="3" required></textarea>
+               </div>
+               <br>
+               <button id="submit" type="submit">Submit</button>
+            </form>
+            <br>
 
+            <div class="mapouter container-fluid"><div class="gmap_canvas"><iframe width="800" height="500" id="gmap_canvas" src="https://maps.google.com/maps?q=Thomas%20Darby%20Court,%20133%20Lancaster%20Rd,%20London%20W11%201TT&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://www.whatismyip-address.com"></a><br><style>.mapouter{position:relative;text-align:right;height:500px;width:800px;}</style><a href="https://www.embedgooglemap.net"></a><style>.gmap_canvas {overflow:hidden;background:none!important;height:500px;width:800px;}</style></div></div>
+        
+        </section>
 
       <footer class="container-fluid">
           <div class="container">
