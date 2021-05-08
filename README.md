@@ -25,7 +25,9 @@ On the first home page I wanted to have a sales pitch on why they should join th
 
 ### Skeleton
 Here are the wireframes I done before the project, to help me get started.
-[text](https://link)
+[Home page](https://github.com/qalisalah/my-full-template/blob/master/wireframes/project-1%20home.png)
+[Classes](https://github.com/qalisalah/my-full-template/blob/master/wireframes/project-1%20classes.png)
+[Contact](https://https://github.com/qalisalah/my-full-template/blob/master/wireframes/project-1%20contact.png)
 
 ### Surface
 My color schemes for this project. Is going to be black, blue and grey. To create a cool modern feel to the website.
@@ -53,4 +55,4 @@ All the content about the classes and reasons to join, where written by me.
 I used two diffrent stock image libraries for my images.
 I used pexels and unsplash.
 ### Acknowledgements 
-I used bootstrap codes.
+I used bootstrap codes to help me with this protect.
