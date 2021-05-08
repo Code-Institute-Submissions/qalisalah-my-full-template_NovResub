@@ -110,6 +110,25 @@ form > div {
     
 }
 
-Map {
-    position: fixed;
+.gmap_canvas {
+    margin-top: 5%;
+    margin-left: 70%;
+    padding: 10px;
+}
+
+@media (min-width: 300px) {
+
+    #gymclasses {
+        max-width: 100%;
+        text-align: center;
+    }
+    .boxit {
+        max-width: 100%;
+    }
+    .yogapic {
+        max-width: 100%;
+    }
+    .bike {
+        max-width: 100%;
+    }
 }
