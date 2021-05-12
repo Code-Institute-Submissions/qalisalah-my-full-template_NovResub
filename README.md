@@ -29,31 +29,61 @@ Here are the wireframes I done before the project, to help me get started.
 *[Home page](https://github.com/qalisalah/my-full-template/blob/master/wireframes/project-1%20home.png)
 *[Classes](https://github.com/qalisalah/my-full-template/blob/master/wireframes/project-1%20classes.png)
 *[Contact](https://https://github.com/qalisalah/my-full-template/blob/master/wireframes/project-1%20contact.png)
+*[Mobilehp] (https://github.com/qalisalah/my-full-template/blob/master/wireframes/mobile%20home.png)
+*[mobileclasses](https://github.com/qalisalah/my-full-template/blob/master/wireframes/mobile%20classes.png)
+*[mobilecontact](https://github.com/qalisalah/my-full-template/blob/master/wireframes/mobile%20contact%20wire%20frame.png)
 
-### Surface
-My color schemes for this project. Is going to be black, blue and grey. To create a cool modern feel to the website.
+### Features
+* Responsive on all device size 
+* Interactive elements.
 
 ### Technologies
-HTML
-CSS
-Bootstrap 4 
+#### languages used
+* HTML5
+* CSS3
+
+#### Frameworks and libraries
+    1. Bootstrap 5.0
+        * Bootstrap was used to assist with the responsiveness and styling of the website.
+    2. Google Fonts
+        *Google fonts were used to import the 'Roboto' and 'Sans' font into the style.css file which is used on all pages throughout the project
+    3. Font Awesome 
+        *Font Awesome was used on the home page. I added icons for aesthetic and UX purposes.
+    4. Git 
+        * Was used as a workspace to code and commit these pages.
+    5. Github 
+        *Was used to store my codes and share.
+    6. Balsamiq 
+        *Was used to create wireframes to help be with planning my outline.
+
 
 ### Features
 This site uses bootstrap carousel on reasons why to join as well as the nav bar.
 
 ### Testing
-This site was tested on a css validator to make sure my codes where correct.
-I also tested it on some other devices to make sure it still looked okay.
+I used the W3C Markup Validator and W3C CSS validator to make sure there was no syntax errors.
 
+### Known Bugs 
 
 ### Deployment
 This site is hosted on github, and has been deployed directly on the master branch.
  
 ### Credits
+    *Bootstrap 5.0
+
 ### Content
-All the content about the classes and reasons to join, where written by me.
+The lay out on the home page and classe was used from bootstrap
+contact page was a layout coded by me fully.
+the Content on all pages was written my me. Images were used from stock imahe libaries.
+
 ### Media
-I used two diffrent stock image libraries for my images.
-I used pexels and unsplash.
+    1.Pexel
+    2.Unsplash
+
 ### Acknowledgements 
-I used bootstrap codes to help me with this protect.
+* My mentor for helpful Feedback
+* Bootstrap
+* Pexel
+* splash
+
+
