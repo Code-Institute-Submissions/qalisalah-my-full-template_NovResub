@@ -12,22 +12,23 @@ This website is to present to potential gym members to join our gym. The website
 ### UX
 As a future gym member I am looking for a gym that has fun classes and trainers who will encourage me.
 I'll be looking for the classes they provide and if they are beginner friendly.
-I'll also be looking for convienience.
-
-### Strategy
 My goal is to design a website that’s easy to use and access information. A website that is easy to navigate.
+For potential consumers, I would want to provide them reasons on why they should join the gym. make the website easy to navigate and get all the information they cann
 
-### Scope
-For potential consumers, I would want to provide them reasons on why they should join the gym.
-
-### Structure
+### Design 
+* Colour Scheme ; Black, Blue, White and Grey.
+* Typography
+ *  Roboto font will be used throught my website. If the font doesnt work, the fall back will be Sans Serif.
+* Imagery 
+ * To use images that match my theme. to make the feel of the website modern. 
+   
 On the first home page I wanted to have a sales pitch on why they should join the gym. To get them interested and have them look around the website.
 
-### Skeleton
+### Wireframes
 Here are the wireframes I done before the project, to help me get started.
-[Home page](https://github.com/qalisalah/my-full-template/blob/master/wireframes/project-1%20home.png)
-[Classes](https://github.com/qalisalah/my-full-template/blob/master/wireframes/project-1%20classes.png)
-[Contact](https://https://github.com/qalisalah/my-full-template/blob/master/wireframes/project-1%20contact.png)
+*[Home page](https://github.com/qalisalah/my-full-template/blob/master/wireframes/project-1%20home.png)
+*[Classes](https://github.com/qalisalah/my-full-template/blob/master/wireframes/project-1%20classes.png)
+*[Contact](https://https://github.com/qalisalah/my-full-template/blob/master/wireframes/project-1%20contact.png)
 
 ### Surface
 My color schemes for this project. Is going to be black, blue and grey. To create a cool modern feel to the website.
