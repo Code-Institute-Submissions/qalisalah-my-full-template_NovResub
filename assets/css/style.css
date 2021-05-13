@@ -23,6 +23,7 @@ body {
     font-weight: 400 !important;
     font-size: 40px !important;
 }
+
 /* home image */
   
 .liftweight {
@@ -60,6 +61,7 @@ footer {
     font-size: 12px;
     text-align: center;
 }
+
 
 .link {
     padding: 10px;
@@ -119,6 +121,7 @@ input[type=submit] {
   border-radius: 14px;
   cursor: pointer;
   padding: 10px;
+  text-align: center;
 
 }
 
@@ -154,17 +157,18 @@ th, td {
 
 tr:hover {background-color: #4d4d4d;}
 
+@media only screen and (max-width: 370px) {
+   body {
+       text-align: center;
+   }
+   img {
+       text-align: center;
+   }
+   table {
+       width: fit-content;
+   }
 
-@media only screen and (max-width:375px) {
-  header {font-size: 50%;}
-  .navbar {
-      padding-bottom: 20%;
-  }
-}
-
-@media only screen and (min-width:376px) and (max-width:768px) {
-  header {font-size: 50%;}
-  .navbar {
-      padding-bottom: 20%;
-  }
+   .container-fluid {
+       max-width: max-content;
+   }
 }
