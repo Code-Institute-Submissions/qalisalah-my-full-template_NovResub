@@ -94,23 +94,43 @@ footer {
     padding-right: 20px;
 }
 
+/* contact */
+
 #contact-us {
     text-align: center;
     margin-top: 100px;
 }
 
-form > div {
-    margin-left: 15%;
-    width: 75% !important;
+input[type=text], select, textarea {
+    width: 100%;
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    resize: vertical;
 }
 
-#submit {
-    text-align: center;
-    margin-left: 50%;
-    color: #ffffff;
-    background-color: rgb(0, 0, 125);
-    border-color: rgb(0, 0, 125);
-    padding: 20px;
+input[type=submit] {
+  color: #ffffff;
+  background-color: rgb(0, 0, 225);
+  border: rgb(0, 0, 225);
+  border-radius: 14px;
+  cursor: pointer;
+  padding: 10px;
+
+}
+
+input[type=submit]:hover {
+    background-color: grey;
+}
+
+.submit {
+ margin: auto;
+ padding: 20px;
+ text-align: center;
+ display: flex;
 }
 
 #openhrshead {
@@ -118,9 +138,22 @@ form > div {
 }
 
 .openhrs {
+    text-align: center;
     padding: 50px;
     margin: 50px;
 }
+
+table {
+    text-align: center;
+}
+
+th, td {
+  padding: 30px;
+  border-bottom: 1px solid #ddd;
+}
+
+tr:hover {background-color: #4d4d4d;}
+
 
 @media only screen and (max-width:375px) {
   header {font-size: 50%;}
