@@ -26,12 +26,12 @@ On the first home page I wanted to have a sales pitch on why they should join th
 
 ### Wireframes
 Here are the wireframes I done before the project, to help me get started.
-*[Home page](https://github.com/qalisalah/my-full-template/blob/master/wireframes/project-1%20home.png)
-*[Classes](https://github.com/qalisalah/my-full-template/blob/master/wireframes/project-1%20classes.png)
-*[Contact](https://https://github.com/qalisalah/my-full-template/blob/master/wireframes/project-1%20contact.png)
-*[Mobilehp] (https://github.com/qalisalah/my-full-template/blob/master/wireframes/mobile%20home.png)
-*[mobileclasses](https://github.com/qalisalah/my-full-template/blob/master/wireframes/mobile%20classes.png)
-*[mobilecontact](https://github.com/qalisalah/my-full-template/blob/master/wireframes/mobile%20contact%20wire%20frame.png)
+   *[Home page] (https://github.com/qalisalah/my-full-template/blob/master/wireframes/project-1%20home.png)
+   *[Classes] (https://github.com/qalisalah/my-full-template/blob/master/wireframes/project-1%20classes.png)
+   *[Contact] (https://https://github.com/qalisalah/my-full-template/blob/master/wireframes/project-1%20contact.png)
+   *[Mobilehp] (https://github.com/qalisalah/my-full-template/blob/master/wireframes/mobile%20home.png)
+   *[mobileclasses] (https://github.com/qalisalah/my-full-template/blob/master/wireframes/mobile%20classes.png)
+   *[mobilecontact] (https://github.com/qalisalah/my-full-template/blob/master/wireframes/mobile%20contact%20wire%20frame.png)
 
 ### Features
 * Responsive on all device size 
