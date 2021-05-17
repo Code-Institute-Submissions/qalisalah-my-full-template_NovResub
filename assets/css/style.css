@@ -96,6 +96,10 @@ footer {
     padding-right: 20px;
 }
 
+.order-md-2 {
+    float: left;
+}
+
 /* contact */
 
 #contact-us {
@@ -161,14 +165,32 @@ tr:hover {background-color: #4d4d4d;}
    body {
        text-align: center;
    }
-   img {
+
+   .home-image {
        text-align: center;
-   }
-   table {
-       width: fit-content;
+       float: right;
    }
 
-   .container-fluid {
-       max-width: max-content;
+   .gym-classes {
+       text-align: center;
+   }
+
+   img {
+       text-align: center;
+       width: 95%;
+   }
+
+   .contact-us {
+       margin: auto;
+       width: 40%;
+   }
+
+   table {
+       width: 60%;
+       text-align: center;
+   }
+
+   .div-col {
+       width: 100%;
    }
 }

@@ -5,7 +5,7 @@
 This website is to present to potential gym members to join our gym. The website will highlight the reasons why they should join by showcasing what benefits they may experience with us.
 
 ### Demo
-[Here is my web link](https://8000-rose-dove-wkkjgzn2.ws-eu03.gitpod.io/index.html)
+[Here is my web link](https://8000-yellow-wildcat-ycyld7jg.ws-eu04.gitpod.io/)
 
 (if have time paste example how web looks on diff screen)
 
