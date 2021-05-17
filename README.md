@@ -5,7 +5,7 @@
 This website is to present to potential gym members to join our gym. The website will highlight the reasons why they should join by showcasing what benefits they may experience with us.
 
 ### Demo
-[Here is my web link](git@github.com:qalisalah/my-full-template.git)
+[Here is my web link] (git@github.com:qalisalah/my-full-template.git)
 
 ### UX
 As a future gym member I am looking for a gym that has fun classes and trainers who will encourage me.
