@@ -62,8 +62,6 @@ This site uses bootstrap carousel on reasons why to join as well as the nav bar.
 ### Testing
 I used the W3C Markup Validator and W3C CSS validator to make sure there was no syntax errors.
 
-### Known Bugs 
-
 ### Deployment
 This site is hosted on github, and has been deployed directly on the master branch.
  
