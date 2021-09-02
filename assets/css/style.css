@@ -147,6 +147,12 @@ input[type=submit]:hover {
     margin: 50px;
 }
 
+#time-table {
+    min-height: 10em;
+    display: table-cell;
+    vertical-align: middle 
+}
+
 table {
     text-align: center;
 }
