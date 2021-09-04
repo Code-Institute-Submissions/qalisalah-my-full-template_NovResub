@@ -152,9 +152,8 @@ input[type=submit]:hover {
     text-align: center;
     display: block;
     margin-left: auto;
-    margin-right: auto 
+    margin-right: auto; 
     display: table-cell;
-    vertical-align: middle 
 }
 
 table {
