@@ -96,11 +96,27 @@ footer {
     padding-right: 20px;
 }
 
+.col-md-7 {
+    padding-left: 0;
+}
+
+.yoga {
+    float: left;
+    padding-right: 0;
+
+}
+
+.col-md-5 {
+    padding-right: 0;
+}
+
 /* contact */
 
 #contact-us {
     text-align: center;
     margin-top: 100px;
+    padding-left: 15px;
+    padding-right: 15px;
 }
 
 input[type=text], select, textarea {
@@ -143,21 +159,20 @@ input[type=submit]:hover {
 
 .openhrs {
     text-align: center;
-    display: block;
-    margin-left: auto;
-    margin-right: auto 
 }
 
 #time-table {
     text-align: center;
-    display: block;
     margin-left: auto;
     margin-right: auto; 
+    padding: 15px;
     display: table-cell;
 }
 
 table {
     text-align: center;
+    margin-left: auto;
+    margin-right: auto; 
 }
 
 th, td {
